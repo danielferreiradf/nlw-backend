@@ -1,5 +1,7 @@
 # Folders
-uploads/*
+node_modules
 
 # Files
-node_modules
+uploads/*
+!uploaods/.gitkeep
+*.sqlite
