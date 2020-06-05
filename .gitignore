@@ -1,3 +1,5 @@
 # Folders
+uploads/*
+
+# Files
 node_modules
-uploads
